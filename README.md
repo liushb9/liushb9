@@ -52,10 +52,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=liushb9&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=liushb9&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
 </td>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liushb9&theme=radical&hide_border=false&langs_count=8" alt="Top Langs" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liushb9&theme=radical&hide_border=false&langs_count=8" alt="Top Langs" />
 </td>
 </tr>
 </table>
