@@ -2,55 +2,18 @@
 
 <h1 align="center"> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=30BB61&center=true&width=435&lines=Here+is+allenge007;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9932CC&center=true&width=435&lines=Hi!Here+is+liushb9;Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://allenge007.github.io/My_Blog/">
-    <img src="https://img.shields.io/badge/🌐_My_Blog-Visit_Now-blue?style=for-the-badge" alt="Blog">
+  <a href="https://liushb9.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Homepage-Visit_Now-blue?style=for-the-badge" alt="Homepage">
   </a>
-  <a href="https://github.com/allenge007">
-    <img src="https://img.shields.io/github/followers/allenge007?style=for-the-badge&logo=github" alt="GitHub followers">
-</div>
-
-</div>
-
----
-
-## 🚀 About Me
-
-- **Learning**: Advanced data structures and competitive programming
-- **Ask me about**: Programming, algorithms, and software development
-- **I regularly write articles on**: [My Blog](https://allenge007.github.io/My_Blog/)
-
----
-
-## 📊 Statistics
-
-<div align="center">
-
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <picture style="flex: 1; min-width: 300px; margin: 10px 5px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=allenge007&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" style="object-fit: contain; height: 200px; width: 100%;">
-  </picture>
-  
-  <picture style="flex: 1; min-width: 300px; margin: 10px 5px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=allenge007&theme=dark&layout=donut&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenge007&theme=light&layout=donut&hide_border=true" alt="Top Languages" style="object-fit: contain; height: 200px; width: 100%;">
-  </picture>
-  
-</div>
-
-<!-- Codeforces 卡片单独放置 -->
-<br>
-
-<picture style="max-width: 600px;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/light_card.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/allenge007/cf-stats/main/output/light_card.svg" alt="Codeforces Stats" style="width: 50%; height: autu ;">
-</picture>
-
+  <a href="https://scholar.google.com/citations?user=21gTfmYAAAAJ&hl=zh-CN&oi=ao">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <img src="https://img.shields.io/badge/Email-liushengbang0209@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </div>
 
 ---
@@ -60,9 +23,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allenge007/allenge007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allenge007/allenge007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/allenge007/allenge007/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liushb9/liushb9/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liushb9/liushb9/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liushb9/liushb9/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -75,41 +38,15 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
----
+## 💫 Thanks for visiting my profile! 
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 Check out my latest articles on [My Blog](https://allenge007.github.io/My_Blog/)
-- 💡 Algorithm tutorials and problem-solving techniques
-- 🛠️ Programming tips and best practices
-- 📚 Learning resources and study notes
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://allenge007.github.io/My_Blog/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenge007)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 Thanks for visiting my profile! 
-
-![Profile Views](https://komarev.com/ghpvc/?username=allenge007&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=liushb9&color=brightgreen&style=for-the-badge)
 
 **⭐ Star my repositories if you find them useful!**
 
