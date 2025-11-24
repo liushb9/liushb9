@@ -2,7 +2,7 @@
 
 <h1 align="center"> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9932CC&center=true&width=435&lines=Hi!Here+is+liushb9;Welcome+to+my+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9932CC&center=true&width=435&lines=Hi+there%F0%9F%91%8B%2CI%27m+liushb9%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80;Welcome+to+my+GitHub;Let%27s+make+something+cool%21+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
@@ -13,7 +13,7 @@
   <a href="https://scholar.google.com/citations?user=21gTfmYAAAAJ&hl=zh-CN&oi=ao">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
-  <img src="https://img.shields.io/badge/Email-liushengbang0209@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/email-liushengbang0209@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
 </div>
 
 ---
