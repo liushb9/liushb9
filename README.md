@@ -13,14 +13,6 @@
   <a href="https://scholar.google.com/citations?user=21gTfmYAAAAJ&hl=zh-CN&oi=ao">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
-  <a href="mailto:liushengbang0209@gmail.com" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; background: linear-gradient(90deg, #555555 0%, #D14836 100%); padding: 10px 18px; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; color: white; white-space: nowrap;">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="white" style="margin-right: 8px;">
-        <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
-      </svg>
-      <span style="text-transform: lowercase;">email: liushengbang0209@gmail.com</span>
-    </span>
-  </a>
 </div>
 
 ---
@@ -57,9 +49,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liushb9&show_icons=true&theme=radical&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liushb9&layout=compact&theme=radical&hide_border=false)
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=liushb9&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liushb9&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+</td>
+</tr>
+</table>
 
 </div>
 
