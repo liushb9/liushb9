@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9932CC&center=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I%27m+liushb9;Robotics+%26+AI+Researcher+%F0%9F%A4%96;Let%27s+make+something+cool!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9932CC&center=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I%27m+liushb9;AI+%26+Robotics+Researcher+%F0%9F%A4%96;Let%27s+make+something+cool!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -17,12 +17,6 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-<br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=liushb9&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="liushb9" />
-</a>
-<br/>
 
 </div>
 
