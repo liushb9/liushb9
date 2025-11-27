@@ -70,7 +70,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=liushb9&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/liushb9/liushb9">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliushb9%2Fliushb9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
+  </a>
   <br/>
   <b>Thanks for visiting! Don't forget to ⭐ star my repos!</b>
 </div>
