@@ -23,15 +23,6 @@
 ---
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liushb9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liushb9&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="languages graph" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
